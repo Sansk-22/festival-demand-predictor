@@ -1,0 +1,16 @@
+category,region,max_capacity,shelf_life_days,lead_time_days,unit_cost,selling_price,salvage_value,critical_ratio,current_stock
+Beverages,North,4000,180,2,20,35,8,0.5555555555555556,141
+Beverages,South,4000,180,2,20,35,8,0.5555555555555556,138
+Beverages,West,4000,180,2,20,35,8,0.5555555555555556,135
+Dairy,North,3000,7,1,40,60,10,0.4,2190
+Dairy,South,3000,7,1,40,60,10,0.4,2181
+Dairy,West,3000,7,1,40,60,10,0.4,2178
+Instant Food,North,4000,365,3,30,50,10,0.5,684
+Instant Food,South,4000,365,3,30,50,10,0.5,690
+Instant Food,West,4000,365,3,30,50,10,0.5,684
+Snacks,North,5000,90,2,15,25,5,0.5,771
+Snacks,South,5000,90,2,15,25,5,0.5,768
+Snacks,West,5000,90,2,15,25,5,0.5,765
+Stationery,North,6000,730,3,10,20,3,0.5882352941176471,300
+Stationery,South,6000,730,3,10,20,3,0.5882352941176471,294
+Stationery,West,6000,730,3,10,20,3,0.5882352941176471,294
