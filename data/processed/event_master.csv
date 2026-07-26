@@ -1,0 +1,263 @@
+date,festival_name,region,event_type,importance
+2026-07-16,IPL Match,South,IPL,Medium
+2026-07-18,IPL Match,North,IPL,Medium
+2026-07-19,IPL Match,West,IPL,Medium
+2026-07-21,IPL Match,East,IPL,Medium
+2026-07-22,IPL Match,South,IPL,Medium
+2026-07-24,IPL Match,North,IPL,Medium
+2026-07-25,IPL Match,West,IPL,Medium
+2026-07-27,IPL Match,South,IPL,Medium
+2026-07-28,IPL Match,North,IPL,Medium
+2026-07-30,IPL Match,West,IPL,Medium
+2026-07-31,IPL Match,South,IPL,Medium
+2026-08-01,IPL Match,North,IPL,Medium
+2026-08-02,IPL Match,West,IPL,Medium
+2026-08-03,IPL Match,South,IPL,Medium
+2026-08-05,IPL Match,North,IPL,Medium
+2026-08-08,Muharram/Ashura,All,Festival,High
+2026-08-08,Muharram/Ashura,All,Festival,High
+2026-08-11,Raksha Bandhan (Rakhi),North,Festival,High
+2026-08-11,Raksha Bandhan (Rakhi),North,Festival,High
+2026-08-15,Independence Day,All,Festival,High
+2026-08-15,Independence Day,All,Festival,High
+2026-08-16,Parsi New Year,All,Festival,High
+2026-08-16,Parsi New Year,All,Festival,High
+2026-08-17,Raksha Bandhan,North,Festival,Very High
+2026-08-18,Janmashtami (Smarta),All,Festival,High
+2026-08-18,Janmashtami (Smarta),All,Festival,High
+2026-08-19,Janmashtami,All,Festival,High
+2026-08-19,Janmashtami,All,Festival,High
+2026-08-22,Ganesh Chaturthi,West,Festival,Very High
+2026-08-31,Ganesh Chaturthi/Vinayaka Chaturthi,West,Festival,High
+2026-08-31,Ganesh Chaturthi/Vinayaka Chaturthi,West,Festival,High
+2026-09-08,Onam,South,Festival,High
+2026-09-08,Onam,South,Festival,High
+2026-09-26,First Day of Sharad Navratri,West,Festival,High
+2026-09-26,First Day of Sharad Navratri,West,Festival,High
+2026-10-01,First Day of Durga Puja Festivities,East,Festival,High
+2026-10-01,First Day of Durga Puja Festivities,East,Festival,High
+2026-10-02,Maha Saptami,All,Festival,High
+2026-10-02,Mahatma Gandhi Jayanti,All,Festival,High
+2026-10-02,Mahatma Gandhi Jayanti,All,Festival,High
+2026-10-02,Maha Saptami,All,Festival,High
+2026-10-03,Maha Ashtami,All,Festival,High
+2026-10-03,Maha Ashtami,All,Festival,High
+2026-10-04,Maha Navami,All,Festival,High
+2026-10-04,Maha Navami,All,Festival,High
+2026-10-05,Dussehra,All,Festival,High
+2026-10-05,Dussehra,All,Festival,High
+2026-10-09,Milad un-Nabi/Id-e-Milad,All,Festival,High
+2026-10-09,Maharishi Valmiki Jayanti,All,Festival,High
+2026-10-09,Maharishi Valmiki Jayanti,All,Festival,High
+2026-10-09,Milad un-Nabi/Id-e-Milad,All,Festival,High
+2026-10-10,Navratri,West,Festival,Very High
+2026-10-13,Karaka Chaturthi (Karva Chauth),All,Festival,High
+2026-10-13,Karaka Chaturthi (Karva Chauth),All,Festival,High
+2026-10-16,Durga Puja,East,Festival,Very High
+2026-10-24,Naraka Chaturdasi,All,Festival,High
+2026-10-24,Diwali/Deepavali,All,Festival,High
+2026-10-24,Diwali/Deepavali,All,Festival,High
+2026-10-24,Naraka Chaturdasi,All,Festival,High
+2026-10-25,Govardhan Puja,All,Festival,High
+2026-10-25,Govardhan Puja,All,Festival,High
+2026-10-26,Bhai Duj,All,Festival,High
+2026-10-26,Bhai Duj,All,Festival,High
+2026-10-30,Chhat Puja (Pratihar Sashthi/Surya Sashthi),All,Festival,High
+2026-10-30,Chhat Puja (Pratihar Sashthi/Surya Sashthi),All,Festival,High
+2026-11-08,Guru Nanak Jayanti,All,Festival,Very High
+2026-11-08,Diwali,All,Festival,Very High
+2026-11-24,Guru Tegh Bahadur's Martyrdom Day,All,Festival,High
+2026-11-24,Guru Tegh Bahadur's Martyrdom Day,All,Festival,High
+2026-11-27,Guru Nanak Jayanti,All,Festival,Very High
+2026-12-24,Christmas Eve,All,Festival,High
+2026-12-24,Christmas Eve,All,Festival,High
+2026-12-25,Christmas,All,Festival,High
+2026-12-25,Christmas,All,Festival,High
+2026-12-29,Guru Govind Singh Jayanti,North,Festival,High
+2026-12-29,Guru Govind Singh Jayanti,North,Festival,High
+2027-01-01,New Year's Day,All,Festival,High
+2027-01-01,New Year's Day,All,Festival,High
+2027-01-09,Guru Govind Singh Jayanti,North,Festival,High
+2027-01-09,Guru Govind Singh Jayanti,North,Festival,High
+2027-01-13,Lohri,North,Festival,High
+2027-01-13,Lohri,North,Festival,High
+2027-01-14,Pongal,South,Festival,High
+2027-01-14,Makar Sankranti,West,Festival,High
+2027-01-14,Makar Sankranti,West,Festival,High
+2027-01-14,Pongal,South,Festival,High
+2027-01-24,JEE Mains,All,Exam,High
+2027-01-26,Republic Day,All,Festival,High
+2027-01-26,Republic Day,All,Festival,High
+2027-01-27,JEE Mains,All,Exam,High
+2027-02-05,Vasant Panchami,All,Festival,High
+2027-02-05,Vasant Panchami,All,Festival,High
+2027-02-15,Hazarat Ali's Birthday,All,Festival,High
+2027-02-15,Board Exams Start,All,Exam,High
+2027-02-15,Board Exams Start,All,Exam,High
+2027-02-15,Hazarat Ali's Birthday,All,Festival,High
+2027-02-16,Guru Ravidas Jayanti,All,Festival,High
+2027-02-16,Guru Ravidas Jayanti,All,Festival,High
+2027-02-19,Shivaji Jayanti,All,Festival,High
+2027-02-19,Shivaji Jayanti,All,Festival,High
+2027-02-26,Maharishi Dayanand Saraswati Jayanti,All,Festival,High
+2027-02-26,Maharishi Dayanand Saraswati Jayanti,All,Festival,High
+2027-03-01,Maha Shivaratri/Shivaratri,All,Festival,High
+2027-03-01,Maha Shivaratri/Shivaratri,All,Festival,High
+2027-03-17,Holika Dahana,All,Festival,High
+2027-03-17,Holika Dahana,All,Festival,High
+2027-03-18,Dolyatra,All,Festival,High
+2027-03-18,Dolyatra,All,Festival,High
+2027-04-02,Chaitra Sukhladi,All,Festival,High
+2027-04-02,Gudi Padwa,All,Festival,High
+2027-04-02,Ugadi,All,Festival,High
+2027-04-02,Gudi Padwa,All,Festival,High
+2027-04-02,Ugadi,All,Festival,High
+2027-04-02,Chaitra Sukhladi,All,Festival,High
+2027-04-10,Rama Navami,All,Festival,High
+2027-04-10,Rama Navami,All,Festival,High
+2027-04-14,Ambedkar Jayanti,All,Festival,High
+2027-04-14,Mahavir Jayanti,All,Festival,High
+2027-04-14,Mesadi / Vaisakhadi,All,Festival,High
+2027-04-14,Ambedkar Jayanti,All,Festival,High
+2027-04-14,Mahavir Jayanti,All,Festival,High
+2027-04-14,Vaisakhi,All,Festival,High
+2027-04-14,Mesadi / Vaisakhadi,All,Festival,High
+2027-04-14,Vaisakhi,All,Festival,High
+2027-04-15,Good Friday,All,Festival,High
+2027-04-15,Good Friday,All,Festival,High
+2027-04-17,Easter Day,All,Festival,High
+2027-04-17,Easter Day,All,Festival,High
+2027-04-29,Jamat Ul-Vida,All,Festival,High
+2027-04-29,Jamat Ul-Vida,All,Festival,High
+2027-05-03,Ramzan Id/Eid-ul-Fitar,All,Festival,High
+2027-05-03,Ramzan Id/Eid-ul-Fitar,All,Festival,High
+2027-05-05,NEET,All,Exam,High
+2027-05-07,NEET,All,Exam,High
+2027-05-09,Birthday of Ravindranath,All,Festival,High
+2027-05-09,Birthday of Ravindranath,All,Festival,High
+2027-05-16,Buddha Purnima/Vesak,All,Festival,High
+2027-05-16,Buddha Purnima/Vesak,All,Festival,High
+2027-06-17,Eid al-Adha,All,Festival,Very High
+2027-06-29,Eid al-Adha,All,Festival,Very High
+2027-07-01,Rath Yatra,All,Festival,High
+2027-07-01,Rath Yatra,All,Festival,High
+2027-07-10,Bakr Id/Eid ul-Adha,All,Festival,High
+2027-07-10,Bakr Id/Eid ul-Adha,All,Festival,High
+2027-08-08,Muharram/Ashura,All,Festival,High
+2027-08-08,Muharram/Ashura,All,Festival,High
+2027-08-11,Raksha Bandhan (Rakhi),North,Festival,High
+2027-08-11,Raksha Bandhan (Rakhi),North,Festival,High
+2027-08-15,Independence Day,All,Festival,High
+2027-08-15,Independence Day,All,Festival,High
+2027-08-16,Parsi New Year,All,Festival,High
+2027-08-16,Parsi New Year,All,Festival,High
+2027-08-18,Janmashtami (Smarta),All,Festival,High
+2027-08-18,Janmashtami (Smarta),All,Festival,High
+2027-08-19,Janmashtami,All,Festival,High
+2027-08-19,Janmashtami,All,Festival,High
+2027-08-31,Ganesh Chaturthi/Vinayaka Chaturthi,West,Festival,High
+2027-08-31,Ganesh Chaturthi/Vinayaka Chaturthi,West,Festival,High
+2027-09-08,Onam,South,Festival,High
+2027-09-08,Onam,South,Festival,High
+2027-09-26,First Day of Sharad Navratri,West,Festival,High
+2027-09-26,First Day of Sharad Navratri,West,Festival,High
+2027-10-01,First Day of Durga Puja Festivities,East,Festival,High
+2027-10-01,First Day of Durga Puja Festivities,East,Festival,High
+2027-10-02,Mahatma Gandhi Jayanti,All,Festival,High
+2027-10-02,Maha Saptami,All,Festival,High
+2027-10-02,Maha Saptami,All,Festival,High
+2027-10-02,Mahatma Gandhi Jayanti,All,Festival,High
+2027-10-03,Maha Ashtami,All,Festival,High
+2027-10-03,Maha Ashtami,All,Festival,High
+2027-10-04,Maha Navami,All,Festival,High
+2027-10-04,Maha Navami,All,Festival,High
+2027-10-05,Dussehra,All,Festival,High
+2027-10-05,Dussehra,All,Festival,High
+2027-10-09,Milad un-Nabi/Id-e-Milad,All,Festival,High
+2027-10-09,Maharishi Valmiki Jayanti,All,Festival,High
+2027-10-09,Milad un-Nabi/Id-e-Milad,All,Festival,High
+2027-10-09,Maharishi Valmiki Jayanti,All,Festival,High
+2027-10-13,Karaka Chaturthi (Karva Chauth),All,Festival,High
+2027-10-13,Karaka Chaturthi (Karva Chauth),All,Festival,High
+2027-10-24,Diwali/Deepavali,All,Festival,High
+2027-10-24,Naraka Chaturdasi,All,Festival,High
+2027-10-24,Diwali/Deepavali,All,Festival,High
+2027-10-24,Naraka Chaturdasi,All,Festival,High
+2027-10-25,Govardhan Puja,All,Festival,High
+2027-10-25,Govardhan Puja,All,Festival,High
+2027-10-26,Bhai Duj,All,Festival,High
+2027-10-26,Bhai Duj,All,Festival,High
+2027-10-30,Chhat Puja (Pratihar Sashthi/Surya Sashthi),All,Festival,High
+2027-10-30,Chhat Puja (Pratihar Sashthi/Surya Sashthi),All,Festival,High
+2027-11-15,Guru Nanak Jayanti,All,Festival,Very High
+2027-11-24,Guru Tegh Bahadur's Martyrdom Day,All,Festival,High
+2027-11-24,Guru Tegh Bahadur's Martyrdom Day,All,Festival,High
+2027-11-27,Guru Nanak Jayanti,All,Festival,Very High
+2027-12-24,Christmas Eve,All,Festival,High
+2027-12-24,Christmas Eve,All,Festival,High
+2027-12-25,Christmas,All,Festival,High
+2027-12-25,Christmas,All,Festival,High
+2027-12-29,Guru Govind Singh Jayanti,North,Festival,High
+2027-12-29,Guru Govind Singh Jayanti,North,Festival,High
+2028-01-01,New Year's Day,All,Festival,High
+2028-01-09,Guru Govind Singh Jayanti,North,Festival,High
+2028-01-13,Lohri,North,Festival,High
+2028-01-14,Makar Sankranti,West,Festival,High
+2028-01-14,Pongal,South,Festival,High
+2028-01-26,Republic Day,All,Festival,High
+2028-01-27,JEE Mains,All,Exam,High
+2028-02-05,Vasant Panchami,All,Festival,High
+2028-02-15,Board Exams Start,All,Exam,High
+2028-02-15,Hazarat Ali's Birthday,All,Festival,High
+2028-02-16,Guru Ravidas Jayanti,All,Festival,High
+2028-02-19,Shivaji Jayanti,All,Festival,High
+2028-02-26,Maharishi Dayanand Saraswati Jayanti,All,Festival,High
+2028-03-01,Maha Shivaratri/Shivaratri,All,Festival,High
+2028-03-17,Holika Dahana,All,Festival,High
+2028-03-18,Dolyatra,All,Festival,High
+2028-04-02,Chaitra Sukhladi,All,Festival,High
+2028-04-02,Gudi Padwa,All,Festival,High
+2028-04-02,Ugadi,All,Festival,High
+2028-04-10,Rama Navami,All,Festival,High
+2028-04-14,Ambedkar Jayanti,All,Festival,High
+2028-04-14,Mahavir Jayanti,All,Festival,High
+2028-04-14,Mesadi / Vaisakhadi,All,Festival,High
+2028-04-14,Vaisakhi,All,Festival,High
+2028-04-15,Good Friday,All,Festival,High
+2028-04-17,Easter Day,All,Festival,High
+2028-04-29,Jamat Ul-Vida,All,Festival,High
+2028-05-03,Ramzan Id/Eid-ul-Fitar,All,Festival,High
+2028-05-05,NEET,All,Exam,High
+2028-05-09,Birthday of Ravindranath,All,Festival,High
+2028-05-16,Buddha Purnima/Vesak,All,Festival,High
+2028-06-17,Eid al-Adha,All,Festival,Very High
+2028-07-01,Rath Yatra,All,Festival,High
+2028-07-10,Bakr Id/Eid ul-Adha,All,Festival,High
+2028-08-08,Muharram/Ashura,All,Festival,High
+2028-08-11,Raksha Bandhan (Rakhi),North,Festival,High
+2028-08-15,Independence Day,All,Festival,High
+2028-08-16,Parsi New Year,All,Festival,High
+2028-08-18,Janmashtami (Smarta),All,Festival,High
+2028-08-19,Janmashtami,All,Festival,High
+2028-08-31,Ganesh Chaturthi/Vinayaka Chaturthi,West,Festival,High
+2028-09-08,Onam,South,Festival,High
+2028-09-26,First Day of Sharad Navratri,West,Festival,High
+2028-10-01,First Day of Durga Puja Festivities,East,Festival,High
+2028-10-02,Maha Saptami,All,Festival,High
+2028-10-02,Mahatma Gandhi Jayanti,All,Festival,High
+2028-10-03,Maha Ashtami,All,Festival,High
+2028-10-04,Maha Navami,All,Festival,High
+2028-10-05,Dussehra,All,Festival,High
+2028-10-09,Milad un-Nabi/Id-e-Milad,All,Festival,High
+2028-10-09,Maharishi Valmiki Jayanti,All,Festival,High
+2028-10-13,Karaka Chaturthi (Karva Chauth),All,Festival,High
+2028-10-24,Diwali/Deepavali,All,Festival,High
+2028-10-24,Naraka Chaturdasi,All,Festival,High
+2028-10-25,Govardhan Puja,All,Festival,High
+2028-10-26,Bhai Duj,All,Festival,High
+2028-10-30,Chhat Puja (Pratihar Sashthi/Surya Sashthi),All,Festival,High
+2028-11-15,Guru Nanak Jayanti,All,Festival,Very High
+2028-11-24,Guru Tegh Bahadur's Martyrdom Day,All,Festival,High
+2028-12-24,Christmas Eve,All,Festival,High
+2028-12-25,Christmas,All,Festival,High
+2028-12-29,Guru Govind Singh Jayanti,North,Festival,High
