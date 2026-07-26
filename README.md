@@ -109,5 +109,5 @@ jupyter notebook notebooks/01_load_and_clean.ipynb
 ---
 
 ## Author
-**Sansu** | B.Tech Mechanical Engineering, MANIT Bhopal  
+**Sanskriti** | B.Tech Mechanical Engineering, MANIT Bhopal  
 Aspiring Data & Business Analyst | Quick Commerce & Demand Forecasting
