@@ -7,6 +7,7 @@ A demand forecasting system built for quick commerce that predicts inventory spi
 ## Tools & Technologies
 - **Python** (pandas, Prophet, matplotlib) — forecasting, alert engine, visualizations
 - **Facebook Prophet** — time series demand forecasting with event regressors
+- **Power BI** — interactive dashboard for restock alerts, stock gap, and event timeline
 - **CSV** — structured restock alert output
 
 ---
@@ -108,5 +109,5 @@ jupyter notebook notebooks/01_load_and_clean.ipynb
 ---
 
 ## Author
-**Sanskriti** | B.Tech Mechanical Engineering, MANIT Bhopal  
+**Sansu** | B.Tech Mechanical Engineering, MANIT Bhopal  
 Aspiring Data & Business Analyst | Quick Commerce & Demand Forecasting
