@@ -1,0 +1,13 @@
+event_name,event_date,event_type,region,category,base_demand,spike_multiplier,predicted_demand,current_stock,order_quantity,order_by_date,days_to_event,urgency
+IPL Match,2026-07-16,IPL,South,Snacks,414,1.3,538,768,39,2026-07-14,0,HIGH
+IPL Match,2026-07-18,IPL,North,Snacks,407,1.3,529,771,22,2026-07-16,2,HIGH
+IPL Match,2026-07-22,IPL,South,Snacks,410,1.3,533,768,31,2026-07-20,6,MEDIUM
+IPL Match,2026-07-24,IPL,North,Snacks,405,1.3,526,771,18,2026-07-22,8,LOW
+IPL Match,2026-07-27,IPL,South,Snacks,416,1.3,540,768,42,2026-07-25,11,LOW
+IPL Match,2026-07-28,IPL,North,Snacks,400,1.3,520,771,9,2026-07-26,12,LOW
+IPL Match,2026-07-31,IPL,South,Snacks,403,1.3,523,768,16,2026-07-29,15,PLAN AHEAD
+IPL Match,2026-08-03,IPL,South,Snacks,402,1.3,522,768,15,2026-08-01,18,PLAN AHEAD
+Muharram/Ashura,2026-08-08,Festival,North,Snacks,375,1.8,675,771,241,2026-08-06,23,PLAN AHEAD
+Muharram/Ashura,2026-08-08,Festival,South,Snacks,389,1.8,700,768,282,2026-08-06,23,PLAN AHEAD
+Muharram/Ashura,2026-08-08,Festival,West,Snacks,345,1.8,621,765,166,2026-08-06,23,PLAN AHEAD
+Raksha Bandhan (Rakhi),2026-08-11,Festival,North,Snacks,383,1.8,689,771,262,2026-08-09,26,PLAN AHEAD
